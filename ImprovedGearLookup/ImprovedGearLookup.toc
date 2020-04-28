@@ -1,0 +1,4 @@
+## Interface: 80300
+## Title: Improved Gear Lookup
+## Author: Furiedsteel
+## Version: 0.0.1

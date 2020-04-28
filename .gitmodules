@@ -1,0 +1,3 @@
+[submodule "WoWAddonLocalDeploy"]
+	path = WoWAddonLocalDeploy
+	url = https://github.com/davidcooper1/WoWAddonLocalDeploy.git
